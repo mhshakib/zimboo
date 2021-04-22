@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.btn-orange {
+  background-color: #ff7f04;
+}
+
+.fw-600 {
+  font-weight: 600;
+}
+
+.lh-2 {
+  line-height: 2;
+}
+
+@media (min-width: 992px) {
+  .p-lg-6 {
+    padding: 3.5rem !important;
+  }
+}
+
+@media (max-width: 700px) {
+  .p-mb-3 {
+    padding: 1.5rem !important;
+  }
+}
+/*# sourceMappingURL=style.css.map */
